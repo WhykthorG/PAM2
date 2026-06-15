@@ -1,5 +1,6 @@
 {
   "name": "vazio",
+  "description": "Criar um app temático da copa como se fosse a descrição de um jogadorr",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {

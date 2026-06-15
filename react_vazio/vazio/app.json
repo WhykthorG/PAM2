@@ -3,6 +3,7 @@
     "name": "vazio",
     "slug": "vazio",
     "version": "1.0.0",
+    "description": "Criar um app temático da copa como se fosse a descrição de um jogadorr",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
